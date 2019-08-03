@@ -2,3 +2,14 @@ remote_theme: pmarsceill/just-the-docs
 #color_scheme: "dark"
 
 title: 🇺🇦 Локалізація відкритого ПЗ
+
+description: Ціль проекту - спільними зусилями здійснювати локалізацію на українську мову  проекти з відкритим вихідним кодом
+
+permalink: pretty
+
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Редагувати на GitHub":
+    - "https://github.com/vk0xOrg/os2ua"
