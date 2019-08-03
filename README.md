@@ -1,1 +1,1 @@
-https://vk0xorg.github.io/jtd-remote/
+https://vk0xorg.github.io/os2ua/
