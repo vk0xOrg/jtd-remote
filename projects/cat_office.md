@@ -30,9 +30,9 @@ permalink: projects/cat_office
  --- 
   
  
- # CRM системи 
+# CRM системи 
  
- ### управління проектами, взаємодія з клієнтами, бізнес-процеси, робота з персоналом
+### управління проектами, взаємодія з клієнтами, бізнес-процеси, робота з персоналом
  
  - ### [Dolibarr](https://www.dolibarr.org/)
    > Наймовірно потужна та гнучка open source система [ERP&CRM](https://crmswitch.com/crm-value/understanding-crm-erp/).
