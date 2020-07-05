@@ -6,8 +6,4 @@ description: "Контакти"
 permalink: contacts/
 ---
 
- Заходьте в Групу на
-
-  [Facebook - Локалізація відкритого ПЗ українською мовою / @ua.localization -](https://www.facebook.com/groups/ua.localization)
-
-  для обговорення питань з локалізації
+Писати напряму в Твітері [@vasia_krbk](https://twitter.com/vasia_krbk)
