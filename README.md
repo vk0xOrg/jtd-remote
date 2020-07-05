@@ -4,5 +4,4 @@
 https://vk0xorg.github.io/os2ua/
 
 
-Група на Facebook:
-https://www.facebook.com/groups/ua.localization
+Питання, обговорення => [Twitter > @vasia_krbk](https://twitter.com/vasia_krbk)
