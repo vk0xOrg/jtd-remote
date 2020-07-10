@@ -20,4 +20,11 @@ permalink: /
 - вступити в групу (див. внизу) і поділитись нею з друзями
 - користуватись вільними та з відкритим кодом програмами (_free & opensource software_)
 
-Питання, пропозиції, ідеї пишіть [сюди в Твітері](https://twitter.com/vasia_krbk)
+Обговорення, комунікація => [Matrix/Riot.im*](https://riot.im/app/#/room/#ua-localization:matrix.org)
+
+Або в твітері [сюди в Твітері](https://twitter.com/vasia_krbk)
+
+-
+* Matrix — це відкритий протокол для спілкування у реальному часі. Веб-сайт [matrix.org](https://matrix.org/), стаття на [Вікіпедії](https://uk.wikipedia.org/wiki/Matrix_(%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB)).
+
+Riot.im - вільний клієнт обміну повідомленнями по Matrix-протоколу із відкритим сирцевим кодом. Вебсайт [riot.im](https://riot.im), стаття на [Вікіпедії](https://uk.wikipedia.org/wiki/Riot.im).
