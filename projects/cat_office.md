@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Категорія: офіс"
-nav_order: 1
+nav_order: 2
 parent: Проекти
 description: "Офісні програми для локалізації"
 permalink: projects/cat_office
