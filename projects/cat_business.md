@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Категорія: бізнес"
-nav_order: 2
+nav_order: 3
 parent: Проекти
 description: "Програми, що використовуються у бізнесі"
 permalink: projects/cat_business
