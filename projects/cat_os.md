@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Категорія: Операційні системи"
-nav_order: 6
+nav_order: 7
 parent: Проекти
 description: "Операційні системи, дистрибутиви"
 permalink: projects/cat_os
