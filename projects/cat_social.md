@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Категорія: Соціальні мережі"
-nav_order: 7
+nav_order: 8
 parent: Проекти
 description: "Соціальні мережі, зокрема ті, що підтримують протокол fediverse"
 permalink: projects/cat_social
