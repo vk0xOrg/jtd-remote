@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Категорія: графіка"
+title: "Категорія: Графіка"
 nav_order: 4
 parent: Проекти
 description: "Програми для графіки"
