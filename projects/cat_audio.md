@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Категорія: аудіо"
+title: "Категорія: Аудіо"
 nav_order: 5
 parent: Проекти
 description: "Програми для аудіо, звуку"
