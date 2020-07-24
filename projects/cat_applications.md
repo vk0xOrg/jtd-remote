@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Категорія: Програми/Додатки"
-nav_order: 8
+nav_order: 9
 parent: Проекти
 description: "Програми, додатки, що використовуються в повсякденності, в тому числі які не уввійшли до інших категорій"
 permalink: projects/cat_applications
