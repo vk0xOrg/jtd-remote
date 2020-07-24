@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Категорія: офіс"
+title: "Категорія: Офіс"
 nav_order: 2
 parent: Проекти
 description: "Офісні програми для локалізації"
