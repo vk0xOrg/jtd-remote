@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Категорія: бізнес"
+title: "Категорія: Бізнес"
 nav_order: 3
 parent: Проекти
 description: "Програми, що використовуються у бізнесі"
