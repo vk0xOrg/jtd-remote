@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Категорія: мультимедіа"
+title: "Категорія: Мультимедіа"
 nav_order: 6
 parent: Проекти
 description: "Програми для відео, мультимедіа"
