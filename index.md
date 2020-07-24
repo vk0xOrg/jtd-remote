@@ -20,7 +20,7 @@ permalink: /
 - вступити в групу (див. внизу) і поділитись нею з друзями
 - користуватись вільними та з відкритим кодом програмами (_free & opensource software_)
 
-Обговорення, комунікація => [Matrix/Riot.im*](https://riot.im/app/#/room/#ua-localization:matrix.org)
+Обговорення, комунікація => [група UA-localization на платформі Matrix/Riot](https://matrix.to/#/#ua-localization:matrix.org)
 
 Або в твітері [сюди в Твітері](https://twitter.com/vasia_krbk)
 
