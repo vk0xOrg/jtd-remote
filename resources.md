@@ -95,3 +95,12 @@ permalink: resources/
 Інформація про проект ➡️ [на ресурсі GitHub](https://github.com/brown-uk/dict_uk/blob/master/doc/announcement.md "ВЕСУМ на GitHub").
 
 ---
+
+### DeepL
+
+> DeepL trains artificial intelligence to understand and translate texts. There are two projects, **DeepL Translator** (the world’s best machine translation), and **Linguee** (the largest database of human translations).
+
+Відкриваємо ➡️ [**DeepL Translator**](https://www.deepl.com/translator), ➡️ [**Linguee**](https://www.linguee.com/).
+
+---
+
