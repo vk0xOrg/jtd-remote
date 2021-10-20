@@ -29,3 +29,10 @@ permalink: projects/cat_applications
   Переклад робити на платформі [Weblate](https://nxnt.link/eSke2) за посиланням [weblate.pixeldroid.org](https://weblate.pixeldroid.org/). Станом на 11.07.2020р. перекладено [~18% на українську](https://weblate.pixeldroid.org/projects/pixeldroid/pixeldroid/uk/)
   
 ---
+
+- ### [rs-short](https://s.42l.fr/)
+  > Скорочувач довгих веб-посилань [rs-short](https://git.42l.fr/42l/rs-short) - сервіс для "обрізання" довгого веб-посилання та створення короткого з можливістю вставляти,напр., в соц.мережі. При створенні короткого посилання є доступною адміністративна веб-панель із статистикою.
+
+  Переклад робиться у файлі  `lang.json`, що знаходиться в гіт-репозиторії [тут](https://git.42l.fr/42l/rs-short). Станом на 20.10.2021р. переклад українською відсутній.
+  
+---
